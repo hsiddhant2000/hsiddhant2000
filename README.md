@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there  I am Siddhant Hore.Welcome to my Github profile. Here is little about me.👋
 
-<!--
-**hsiddhant2000/hsiddhant2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I am a mechancial engineer who is interested in Software Development.
+
+- 🌱In this repository,I have done programs based on numerical methods and using various libraries like numpy and pandas.
+
+- 🌱I have also done programs of other type such as lists, and a tick-tack-toe game.
+
+- 🌱I have also added additional C++ programs in this repository.
+
+- 📬Reach me at hsiddhant2000@gmail.com
+
+- 🌐Connect with me at https://www.linkedin.com/in/siddhant-hore-223051202
+
+
